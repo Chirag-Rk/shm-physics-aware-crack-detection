@@ -115,11 +115,6 @@ This project focuses on reliability and decision-making rather than only model a
 
 ---
 
-## How to Explain This Project in an Interview
-> “Instead of just detecting cracks, my system focuses on deciding whether a detected crack should be trusted. It combines CNN predictions with simple physics-based reasoning and explains each decision with a structural risk level, making it useful for inspection support.”
-
----
-
 ## Author
 **Chirag RK**  
 Interests: Structural Health Monitoring, Computer Vision, Explainable AI
